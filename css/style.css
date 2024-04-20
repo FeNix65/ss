@@ -185,10 +185,7 @@ h3{
 
 
 /* services */
-.section-services{
-    width: 1170px;
-    margin: 0 auto;
-}
+
 .services-list{
    height: 684px;
    displey: flex;
@@ -199,6 +196,7 @@ h3{
     height: 165px;
      displey: flex;
     flex-wrap: wrap;
+    align-content: space-around;
 }
 
 /* benefits */
